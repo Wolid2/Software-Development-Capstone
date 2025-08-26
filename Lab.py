@@ -1,6 +1,6 @@
 # Asking a user for their names and store it in the variables
 name = input('what is your name? ')
-# Asking the user for the month of their birthday
+# Asking the user for the month of their birthdays
 Months_of_your_Birthday = input('What month were you born in? ')
 # Printing a message with the user's name and birth month
 print('Hello ' + name + '!')

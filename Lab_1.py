@@ -10,7 +10,7 @@ for i in range(int(Class_names)):
     class_name = input('Enter the name of the class: ')
     class_list.append(class_name)
 
-# printing each class name on a separate line
+# printing each class name on a separate lines
 print('The classes you are taking this semester are:')
 for class_name in class_list:
     print(class_name) 
